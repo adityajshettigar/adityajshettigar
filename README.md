@@ -1,172 +1,159 @@
+<!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20J%20Shettigar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Security%20Researcher%20%7C%20IoT%20Builder&descAlignY=58&descSize=18" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=220&section=header&text=%5B%20root%40aditya%20%7E%20%5D%23&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=Security%20Researcher%20%2F%2F%20Full-Stack%20Dev%20%2F%2F%20IoT%20Hacker&descAlignY=62&descSize=16&descColor=a0a0a0&stroke=39ff14&strokeWidth=1" />
 </div>
 
+<!-- TYPING BANNER -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Tech+CS+%40+VIT+Amaravati+%F0%9F%8E%93;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;Cybersecurity+Enthusiast+%F0%9F%94%90;IoT+%26+ML+System+Builder;SIH+2025+Pre-Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+secure+shell...;Loading+exploits...+just+kidding+%F0%9F%98%88;SAST+%7C+PQC+%7C+XSS+%7C+SQLi+%7C+IoT+Security;Building+things+that+break+other+things.;%5B+SIH+2025+Pre-Finalist+%5D+%F0%9F%8F%86" />
+  </a>
 </div>
+
+<br/>
 
 ---
 
+<!-- TERMINAL WHOAMI -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-j-shettigar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajshettigar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityajs179@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+```bash
+┌──(aditya㉿sentinel)-[~]
+└─$ whoami
 
-</div>
-
----
-
-## 🧠 About Me
-
-```yaml
-name: Aditya J Shettigar
-location: Udupi, Karnataka 🇮🇳
-education:
-  degree: Integrated M.Tech in Computer Science
-  institute: Vellore Institute of Technology, Amaravati
-  cgpa: 8.67 / 10.0
-
-currently_into:
-  - Full-Stack Web Development (React + Firebase + Spring)
-  - Cybersecurity & Post-Quantum Cryptography
-  - IoT Systems & ML-Powered Prediction Models
-
-achievements:
-  - 🏆 SIH 2025 Pre-Finalist — Tsunami Buoy Project
-  - 🥇 1st Place — Annual Engineering Expo 2025
-  - 🎖️ Best Regional Club Award — Namma Karunadu
-
-roles:
-  - President @ Namma Karunadu Kannada Association
-  - Community Manager @ Null Chapter (Cybersecurity)
+  > Security researcher who also ships full-stack products
+  > PQC migration tools | SAST engines | IoT detection systems
+  > VIT Amaravati · M.Tech CS · CGPA 8.67
+  > Based in Udupi, Karnataka 🇮🇳
 ```
 
+</div>
+
 ---
 
-## 🚀 Featured Projects
+<!-- HACKING GIF + CONNECT -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
+</div>
 
 <div align="center">
 
-| 🔐 [CipherSentinel](https://github.com/adityajshettigar/cipher-sentinel) | ⚖️ Case Closed | 🌊 Tsunami Buoy |
-|:---:|:---:|:---:|
-| SAST/WAF Security Platform | Legal Case Management System | Rapid Deployable IoT System |
-| React · TypeScript · Flask · Semgrep | React · Firebase · Chakra UI | ESP32 · LSTM · Random Forest |
-| PQC Migration · XSS/SQLi Detection | Real-time CRUD · Auth Workflows | Coastal Impact Prediction |
-| [![Live](https://img.shields.io/badge/Live-App-brightgreen?style=flat-square)](https://github.com/adityajshettigar/cipher-sentinel) | ![Status](https://img.shields.io/badge/Status-Complete-blue?style=flat-square) | ![Award](https://img.shields.io/badge/SIH-Pre--Finalist-gold?style=flat-square) |
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=0a0a0a)](https://linkedin.com/in/aditya-j-shettigar)
+[![Email](https://img.shields.io/badge/-adityajs179@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=0a0a0a)](mailto:adityajs179@gmail.com)
+[![CipherSentinel](https://img.shields.io/badge/-CipherSentinel_↗-0a0a0a?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=0a0a0a)](https://github.com/adityajshettigar/cipher-sentinel)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔐 Security Tools
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityajshettigar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajshettigar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adityajshettigar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityajshettigar&theme=dracula&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityajshettigar&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Currently Working On
+<!-- FLAGSHIP PROJECT -->
+## `> ls -la ./projects/`
 
 ```
-🔭 Exploring Post-Quantum Cryptography & NIST PQC Standards
-🌱 Deepening skills in Cloud-Native Architecture & Kubernetes
-🔐 Building security-first full-stack applications
-📡 Researching IoT-based real-time monitoring systems
+drwxr-xr-x  cipher-sentinel/       [ACTIVE]  Post-Quantum Cryptography SAST Engine
+drwxr-xr-x  case-closed/           [DONE]    Legal Case Management System  
+drwxr-xr-x  tsunami-buoy/          [AWARDED] IoT + ML Coastal Detection System
 ```
+
+<br/>
+
+> **🔐 CipherSentinel** — A SAST/WAF platform that detects legacy cryptography (MD5, RSA) in live codebases and automates migration to NIST PQC standards. Built-in XSS/SQLi detection with Base64 obfuscation bypass.
+>
+> `React · TypeScript · Flask · Semgrep · Vercel · Render`
 
 ---
 
+<!-- SECURITY TOOLS ONLY -->
+## `> cat skills.txt | grep -i security`
+
 <div align="center">
 
-### 💬 Random Dev Quote
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logo=tenable&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=flat-square&logo=gnu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-black?style=flat-square&logo=tor-project&logoColor=white)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+## `> cat skills.txt | grep -i stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=flat-square&logo=semgrep&logoColor=white)
 
 </div>
 
 ---
 
+<!-- STATS -->
+## `> ./stats.sh`
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityajshettigar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=ffffff&hide=issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajshettigar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adityajshettigar&theme=terminal&hide_border=true&background=0d0d0d&ring=39ff14&fire=ff4500&currStreakLabel=39ff14" />
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## `> git log --graph --oneline`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajshettigar&theme=chartreuse-dark&bg_color=0d0d0d&color=39ff14&line=39ff14&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## `> ./snake_game.sh`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> ⚠️ To activate the snake: go to your profile repo → **Actions** → enable the snake workflow. [How-to ↗](https://github.com/Platane/snk)
+
+---
+
+<!-- SECURITY GIF ROW -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="200" alt="security"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="matrix"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="hacking"/>
+</div>
+
+---
+
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adityajshettigar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+```
+[ STATUS: ONLINE ]  [ THREAT LEVEL: LOW ]  [ ENCRYPTION: PQC ]
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=adityajshettigar&label=SESSIONS+INITIATED&color=39ff14&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=100&section=footer&reversal=true&stroke=39ff14&strokeWidth=1" />
 
 </div>
