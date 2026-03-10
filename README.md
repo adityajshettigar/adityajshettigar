@@ -1,159 +1,75 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=220&section=header&text=%5B%20root%40aditya%20%7E%20%5D%23&fontSize=42&fontColor=39ff14&fontAlignY=40&desc=Security%20Researcher%20%2F%2F%20Full-Stack%20Dev%20%2F%2F%20IoT%20Hacker&descAlignY=62&descSize=16&descColor=a0a0a0&stroke=39ff14&strokeWidth=1" />
-</div>
-
-<!-- TYPING BANNER -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+secure+shell...;Loading+exploits...+just+kidding+%F0%9F%98%88;SAST+%7C+PQC+%7C+XSS+%7C+SQLi+%7C+IoT+Security;Building+things+that+break+other+things.;%5B+SIH+2025+Pre-Finalist+%5D+%F0%9F%8F%86" />
-  </a>
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=820&height=100&lines=ADITYA+J+SHETTIGAR;%E0%B2%86%E0%B2%A6%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%AF+%E0%B2%9C%E0%B3%86+%E0%B2%B6%E0%B3%86%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%B0%E0%B3%8D;ADITYA+J+SHETTIGAR" />
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=security+researcher+%C2%B7+fullstack+dev+%C2%B7+iot+tinkerer;M.Tech+CSE+%40+VIT+Amaravati;SIH+2025+Pre-Finalist+%F0%9F%8F%86+%C2%B7+Expo+Winner+%F0%9F%A5%87;open+to+work+%E2%86%92+let%27s+build+something" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- TERMINAL WHOAMI -->
+```json
+{
+  "name"     : "Aditya J Shettigar",
+  "based_in" : "Udupi, Karnataka 🇮🇳",
+  "studying" : "M.Tech CSE — VIT Amaravati",
+  "building" : "CipherSentinel — SAST engine for post-quantum crypto migration",
+  "into"     : ["web security", "fullstack apps", "IoT + ML systems"],
+  "open_to"  : "internships · collabs · cool ideas 🤝"
+}
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,python,flask,java,docker,firebase,linux,git,vscode&theme=dark&perline=10" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=kali,bash,github,kubernetes,jenkins&theme=dark&perline=10" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-060018?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/aditya-j-shettigar)
+[![Email](https://img.shields.io/badge/-email-060018?style=for-the-badge&logo=gmail&logoColor=bf5fff)](mailto:adityajs179@gmail.com)
+[![CipherSentinel](https://img.shields.io/badge/-ciphersentinel_↗-060018?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://github.com/adityajshettigar/cipher-sentinel)
+
+</div>
+
+> 🔐 **CipherSentinel** — detects legacy crypto (MD5, RSA) in your codebase and automates migration to NIST post-quantum standards. Built-in XSS/SQLi WAF with Base64 obfuscation bypass.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=adityajshettigar&theme=dark&hide_border=true&background=00000000&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00f5ff/adityajshettigar" width="96%" alt="GitHub contribution heatmap" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ```bash
-┌──(aditya㉿sentinel)-[~]
-└─$ whoami
+┌──(adityajshettigar㉿sentinel)-[~]
+└─$ cat about.txt
 
-  > Security researcher who also ships full-stack products
-  > PQC migration tools | SAST engines | IoT detection systems
-  > VIT Amaravati · M.Tech CS · CGPA 8.67
-  > Based in Udupi, Karnataka 🇮🇳
+  M.Tech CS student by day · security researcher by night
+  president of a cultural club · community manager of a cybersec chapter
+  i write code that finds broken code · and sometimes breaks it first
+
+└─$ _
 ```
 
-</div>
-
----
-
-<!-- HACKING GIF + CONNECT -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=0a0a0a)](https://linkedin.com/in/aditya-j-shettigar)
-[![Email](https://img.shields.io/badge/-adityajs179@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=0a0a0a)](mailto:adityajs179@gmail.com)
-[![CipherSentinel](https://img.shields.io/badge/-CipherSentinel_↗-0a0a0a?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=0a0a0a)](https://github.com/adityajshettigar/cipher-sentinel)
+<img src="https://komarev.com/ghpvc/?username=adityajshettigar&label=visitors&color=bf5fff&style=flat-square" />
 
-</div>
+<br/><br/>
 
----
-
-<!-- FLAGSHIP PROJECT -->
-## `> ls -la ./projects/`
-
-```
-drwxr-xr-x  cipher-sentinel/       [ACTIVE]  Post-Quantum Cryptography SAST Engine
-drwxr-xr-x  case-closed/           [DONE]    Legal Case Management System  
-drwxr-xr-x  tsunami-buoy/          [AWARDED] IoT + ML Coastal Detection System
-```
-
-<br/>
-
-> **🔐 CipherSentinel** — A SAST/WAF platform that detects legacy cryptography (MD5, RSA) in live codebases and automates migration to NIST PQC standards. Built-in XSS/SQLi detection with Base64 obfuscation bypass.
->
-> `React · TypeScript · Flask · Semgrep · Vercel · Render`
-
----
-
-<!-- SECURITY TOOLS ONLY -->
-## `> cat skills.txt | grep -i security`
-
-<div align="center">
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logo=tenable&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=flat-square&logo=gnu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-black?style=flat-square&logo=tor-project&logoColor=white)
-
-</div>
-
-## `> cat skills.txt | grep -i stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-4B32C3?style=flat-square&logo=semgrep&logoColor=white)
-
-</div>
-
----
-
-<!-- STATS -->
-## `> ./stats.sh`
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityajshettigar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=ffffff&hide=issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajshettigar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityajshettigar&theme=terminal&hide_border=true&background=0d0d0d&ring=39ff14&fire=ff4500&currStreakLabel=39ff14" />
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## `> git log --graph --oneline`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajshettigar&theme=chartreuse-dark&bg_color=0d0d0d&color=39ff14&line=39ff14&point=ffffff&hide_border=true" />
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-## `> ./snake_game.sh`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚠️ To activate the snake: go to your profile repo → **Actions** → enable the snake workflow. [How-to ↗](https://github.com/Platane/snk)
-
----
-
-<!-- SECURITY GIF ROW -->
-<div align="center">
-  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="200" alt="security"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="matrix"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="hacking"/>
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-```
-[ STATUS: ONLINE ]  [ THREAT LEVEL: LOW ]  [ ENCRYPTION: PQC ]
-```
-
-<img src="https://komarev.com/ghpvc/?username=adityajshettigar&label=SESSIONS+INITIATED&color=39ff14&style=flat-square" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=100&section=footer&reversal=true&stroke=39ff14&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0030,50:060018,100:000000&height=100&section=footer" />
 
 </div>
