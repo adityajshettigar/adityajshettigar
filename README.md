@@ -13,7 +13,7 @@
   "name"     : "Aditya J Shettigar",
   "based_in" : "Udupi, Karnataka 🇮🇳",
   "studying" : "Int. M.Tech CSE — VIT-AP",
-  "building" : "CipherSentinel — SAST engine for post-quantum crypto migration",
+  "building" : "UnDDoSed",
   "into"     : ["web security", "fullstack apps", "IoT + ML systems"],
   "open_to"  : "internships · collabs · cool ideas 🤝"
 }
@@ -33,17 +33,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-060018?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/aditya-j-shettigar)
 [![Email](https://img.shields.io/badge/-email-060018?style=for-the-badge&logo=gmail&logoColor=bf5fff)](mailto:adityajs179@gmail.com)
-[![CipherSentinel](https://img.shields.io/badge/-ciphersentinel_↗-060018?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://github.com/adityajshettigar/cipher-sentinel)
+
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-> 🔐 **[CipherSentinel](https://github.com/adityajshettigar/cipher-sentinel)** — detects legacy crypto (MD5, RSA) in your codebase and automates migration to NIST post-quantum standards. Built-in XSS/SQLi WAF with Base64 obfuscation bypass.
->
-> `React · TypeScript · Python · Flask · Semgrep`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## `~/stats`
 
