@@ -39,7 +39,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
 ## `~/stats`
 
 <div align="center">
@@ -49,6 +48,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajshettigar&bg_color=00000000&color=bf5fff&line=00f5ff&point=ffffff&hide_border=true&area=true&area_color=bf5fff&custom_title=contribution+activity" width="96%" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
