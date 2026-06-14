@@ -14,8 +14,7 @@
   "based_in" : "Udupi, Karnataka 🇮🇳",
   "studying" : "Int. M.Tech CSE — VIT-AP",
   "building" : "UnDDoSed - Real-Time DDoS Detection with Federated Learning & Explainable AI",
-  "into"     : ["web security", "fullstack apps", "IoT + ML systems"],
-  "open_to"  : "internships · collabs · cool ideas 🤝"
+  "open_to"  : "internships · collabs · cool ideas"
 }
 ```
 
