@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=820&height=100&lines=ADITYA+J+SHETTIGAR;%E0%B2%86%E0%B2%A6%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%AF+%E0%B2%9C%E0%B3%86+%E0%B2%B6%E0%B3%86%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%BF%E0%B2%97%E0%B2%BE%E0%B2%B0%E0%B3%8D;ADITYA+J+SHETTIGAR" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=security+researcher+%C2%B7+fullstack+dev+%C2%B7+iot+tinkerer;Int.M.Tech+CSE+%40+VIT+Amaravati;SIH+2025+Pre-Finalist+%F0%9F%8F%86+%C2%B7+Expo+Winner+%F0%9F%A5%87;open+to+work+%E2%86%92+let%27s+build+something" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -32,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-060018?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/aditya-j-shettigar)
 [![Email](https://img.shields.io/badge/-email-060018?style=for-the-badge&logo=gmail&logoColor=bf5fff)](mailto:adityajs179@gmail.com)
-
+[![Blog](https://img.shields.io/badge/-blog-060018?style=for-the-badge&logo=hashnode&logoColor=00ff7f)](https://adityajshettigar.github.io)
 
 </div>
 
@@ -61,8 +59,7 @@
 ┌──(adityajshettigar㉿sentinel)-[~]
 └─$ cat about.txt
   Int.M.Tech CS student by day · Security researcher by night
-  Community Manager of a Cybersec chapter
-  i write code that finds broken code · and sometimes breaks it first
+  For more visit : adityajshettigar.github.io
 └─$ _
 ```
 
