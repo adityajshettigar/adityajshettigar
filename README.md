@@ -10,9 +10,7 @@
 {
   "name"     : "Aditya J Shettigar",
   "based_in" : "Udupi, Karnataka 🇮🇳",
-  "studying" : "Int. M.Tech CSE — VIT-AP",
-  "building" : "UnDDoSed - Real-Time DDoS Detection with Federated Learning & Explainable AI",
-  "open_to"  : "internships · collabs · cool ideas"
+  "studying" : "Int. M.Tech CSE — VIT-AP"
 }
 ```
 
@@ -42,23 +40,16 @@
   <img src="https://streak-stats.demolab.com?user=adityajshettigar&theme=dark&hide_border=true&background=00000000&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajshettigar&bg_color=00000000&color=bf5fff&line=00f5ff&point=ffffff&hide_border=true&area=true&area_color=bf5fff&custom_title=contribution+activity" width="96%" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
 </picture>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ```bash
-┌──(adityajshettigar㉿sentinel)-[~]
+┌──(pakka-localhost)-[~]
 └─$ cat about.txt
-  Int.M.Tech CS student by day · Security researcher by night
+  Just existing to make my ideas exist...
   For more visit : adityajshettigar.github.io
 └─$ _
 ```
