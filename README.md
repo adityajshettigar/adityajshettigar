@@ -40,6 +40,16 @@
   <img src="https://streak-stats.demolab.com?user=adityajshettigar&theme=dark&hide_border=true&background=00000000&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
+<!-- thm-badge-generator: paste into your README. Light/dark follow the viewer's GitHub theme. -->
+<div align="center">
+  <a href="https://tryhackme.com/p/bl4ckm0re">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/main/badges/thm-adventure-dark.gif">
+      <img alt="TryHackMe: bl4ckm0re, 0xA Wizard, 0 day streak" src="https://raw.githubusercontent.com/adityajshettigar/adityajshettigar/main/badges/thm-adventure-light.gif" width="644">
+    </picture>
+  </a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
