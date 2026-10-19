@@ -18,16 +18,17 @@
   "completedRoomsNumber": 124,
   "streak": 0,
   "largestStreak": 65,
-  "rank": 70412,
+  "rank": 70486,
   "topPercentage": 3,
   "isInTopTenPercent": true,
   "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/bl4ckm0re.png",
   "userRole": "student",
-  "leagueTier": "platinum",
+  "leagueTier": "bronze",
   "capabilityScore": {
     "value": 59.72,
     "pov": "red"
   },
   "isPrivateProfile": false,
+  "profilePlanTier": "free",
   "dateSignUp": "2025-06-25T17:56:25.598Z"
 }
