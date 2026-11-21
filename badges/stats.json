@@ -18,14 +18,14 @@
   "completedRoomsNumber": 137,
   "streak": 0,
   "largestStreak": 65,
-  "rank": 59526,
+  "rank": 59562,
   "topPercentage": 3,
   "isInTopTenPercent": true,
   "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/bl4ckm0re.png",
   "userRole": "student",
   "leagueTier": "platinum",
   "capabilityScore": {
-    "value": 67.95,
+    "value": 55,
     "pov": "red"
   },
   "isPrivateProfile": false,
